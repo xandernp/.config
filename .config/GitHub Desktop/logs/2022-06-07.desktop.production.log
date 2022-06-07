@@ -1,0 +1,66 @@
+2022-06-07T14:32:51.379Z - info: [ui] [AppStore] loading 0 repositories from store
+2022-06-07T14:32:51.434Z - info: [ui] [Welcome] no sign in step found. ignoring...
+2022-06-07T14:32:51.437Z - info: [ui] launching: 3.0.0-linux2 (Linux 5.18.1-arch1-1)
+2022-06-07T14:32:51.437Z - info: [ui] execPath: '/opt/github-desktop/github-desktop'
+2022-06-07T14:32:51.466Z - info: [ui] [Welcome] no sign in step found. ignoring...
+2022-06-07T14:32:51.666Z - info: [ui] Opt in reported.
+2022-06-07T14:32:52.780Z - info: [ui] [Welcome] advancing to step: SignInToDotComWithBrowser
+2022-06-07T14:32:52.783Z - info: [ui] [SignInStore] initializing OAuth flow
+2022-06-07T14:32:52.799Z - info: [main] opening in browser: https://github.com/login/oauth/authorize?client_id=3a723b10ac5575cc5bb9&scope=repo%20user%20workflow&state=b1604eb7-fba8-41ba-8ee7-2a312d06d0bc
+2022-06-07T14:32:52.800Z - info: [ui] [Welcome] current sign in state not found. ignoring...
+2022-06-07T14:33:01.791Z - info: [ui] [Welcome] kind Authentication is the same as Authentication. ignoring...
+2022-06-07T14:33:07.815Z - info: [main] Received possible protocol arguments: 4
+2022-06-07T14:33:07.816Z - info: [main] Processing protocol url
+2022-06-07T14:33:07.822Z - info: [ui] [Dispatcher] requesting authenticated user
+2022-06-07T14:33:07.826Z - info: [ui] [Welcome] kind Authentication is the same as Authentication. ignoring...
+2022-06-07T14:33:08.639Z - info: [ui] [SignInStore] account resolved
+2022-06-07T14:33:08.640Z - info: [ui] [AppStore] adding account xandernp (Xander Newman-Peill) to store
+2022-06-07T14:33:08.653Z - info: [ui] [Welcome] advancing to step: ConfigureGit
+2022-06-07T14:33:08.709Z - info: [ui] [Welcome] no sign in step found. ignoring...
+2022-06-07T14:33:08.922Z - info: [ui] [Welcome] no sign in step found. ignoring...
+2022-06-07T14:33:14.973Z - info: [ui] [Welcome] advancing to step: Start
+2022-06-07T14:33:15.571Z - info: [ui] [Welcome] advancing to step: SignInToDotComWithBrowser
+2022-06-07T14:33:15.573Z - info: [ui] [SignInStore] initializing OAuth flow
+2022-06-07T14:33:15.581Z - info: [main] opening in browser: https://github.com/login/oauth/authorize?client_id=3a723b10ac5575cc5bb9&scope=repo%20user%20workflow&state=9709e872-fd3d-4bf4-86a7-7009a5ebf004
+2022-06-07T14:33:15.583Z - info: [ui] [Welcome] current sign in state not found. ignoring...
+2022-06-07T14:33:16.339Z - info: [main] Received possible protocol arguments: 4
+2022-06-07T14:33:16.339Z - info: [main] Processing protocol url
+2022-06-07T14:33:16.339Z - info: [ui] [Dispatcher] requesting authenticated user
+2022-06-07T14:33:16.349Z - info: [ui] [Welcome] kind Authentication is the same as Authentication. ignoring...
+2022-06-07T14:33:16.900Z - info: [ui] [Welcome] kind Authentication is the same as Authentication. ignoring...
+2022-06-07T14:33:17.162Z - info: [ui] [Welcome] kind Authentication is the same as Authentication. ignoring...
+2022-06-07T14:33:17.450Z - info: [ui] [SignInStore] account resolved
+2022-06-07T14:33:17.451Z - info: [ui] [AppStore] adding account xandernp (Xander Newman-Peill) to store
+2022-06-07T14:33:17.462Z - info: [ui] [Welcome] advancing to step: ConfigureGit
+2022-06-07T14:33:17.514Z - info: [ui] [Welcome] no sign in step found. ignoring...
+2022-06-07T14:33:18.928Z - info: [ui] [Welcome] no sign in step found. ignoring...
+2022-06-07T14:33:19.618Z - info: [ui] [Welcome] no sign in step found. ignoring...
+2022-06-07T14:33:42.330Z - info: [ui] [SignInStore] initializing OAuth flow
+2022-06-07T14:33:42.338Z - info: [main] opening in browser: https://github.com/login/oauth/authorize?client_id=3a723b10ac5575cc5bb9&scope=repo%20user%20workflow&state=4781279c-d444-415b-a407-75a504a24615
+2022-06-07T14:33:43.048Z - info: [main] Received possible protocol arguments: 4
+2022-06-07T14:33:43.048Z - info: [main] Processing protocol url
+2022-06-07T14:33:43.049Z - info: [ui] [Dispatcher] requesting authenticated user
+2022-06-07T14:33:43.868Z - info: [ui] [SignInStore] account resolved
+2022-06-07T14:33:43.869Z - info: [ui] [AppStore] adding account xandernp (Xander Newman-Peill) to store
+2022-06-07T16:12:52.978Z - info: [ui] [AppStore] loading 0 repositories from store
+2022-06-07T16:12:53.024Z - info: [ui] launching: 3.0.0-linux2 (Linux 5.18.1-arch1-1)
+2022-06-07T16:12:53.026Z - info: [ui] execPath: '/opt/github-desktop/github-desktop'
+2022-06-07T16:12:53.411Z - info: [ui] Stats reported.
+2022-06-07T16:13:02.048Z - info: [ui] [SignInStore] initializing OAuth flow
+2022-06-07T16:13:02.051Z - info: [main] opening in browser: https://github.com/login/oauth/authorize?client_id=3a723b10ac5575cc5bb9&scope=repo%20user%20workflow&state=adc48c9c-f0c6-4cae-a2bf-58b8110a51d1
+2022-06-07T16:13:02.774Z - info: [main] Received possible protocol arguments: 4
+2022-06-07T16:13:02.774Z - info: [main] Processing protocol url
+2022-06-07T16:13:02.775Z - info: [ui] [Dispatcher] requesting authenticated user
+2022-06-07T16:13:03.741Z - info: [ui] [SignInStore] account resolved
+2022-06-07T16:13:03.742Z - info: [ui] [AppStore] adding account xandernp (Xander Newman-Peill) to store
+2022-06-07T16:13:04.126Z - info: [ui] Subscribed 'xandernp' to Alive channel
+2022-06-07T16:13:08.558Z - info: [main] Received possible protocol arguments: 4
+2022-06-07T16:13:08.558Z - info: [main] Processing protocol url
+2022-06-07T16:13:08.559Z - info: [ui] [Dispatcher] requesting authenticated user
+2022-06-07T16:13:08.559Z - warn: [ui] requestAuthenticatedUser was not called with valid OAuth state. This is likely due to a browser reloading the callback URL. Contact GitHub Support if you believe this is an error
+2022-06-07T16:13:17.300Z - info: [main] Received possible protocol arguments: 4
+2022-06-07T16:13:17.300Z - info: [main] Processing protocol url
+2022-06-07T16:13:17.300Z - info: [ui] [Dispatcher] requesting authenticated user
+2022-06-07T16:13:17.307Z - warn: [ui] requestAuthenticatedUser was not called with valid OAuth state. This is likely due to a browser reloading the callback URL. Contact GitHub Support if you believe this is an error
+2022-06-07T16:13:54.022Z - info: [ui] [AppStore.getAccountForRemoteURL] account found for remote: https://github.com/xandernp/.files.git - xandernp (has token)
+2022-06-07T16:13:54.571Z - info: [ui] [AppStore] adding repository at /home/xandernp/GitHub/.files to store
