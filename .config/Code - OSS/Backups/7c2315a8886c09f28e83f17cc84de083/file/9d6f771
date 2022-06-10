@@ -1,0 +1,8 @@
+file:///home/xandernp/Coding/Learning/main.c {"mtime":1654868408172,"ctime":1654868309748,"size":74,"etag":"38r3bp7002c","orphaned":false,"typeId":""}
+#include <stdio.h>
+
+int main(){
+    int x = 5;
+    printf("%d", );
+    return 0;
+}

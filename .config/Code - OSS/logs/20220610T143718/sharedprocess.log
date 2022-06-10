@@ -1,0 +1,10 @@
+[2022-06-10 14:37:21.215] [sharedprocess] [info] Starting worker process with pid 10071 (type: fileWatcher, window: 1).
+[2022-06-10 14:37:46.069] [sharedprocess] [info] Worker process with pid 10071 terminated normally (type: fileWatcher, window: 1).
+[2022-06-10 14:37:47.188] [sharedprocess] [info] Starting worker process with pid 10256 (type: fileWatcher, window: 1).
+[2022-06-10 14:41:16.987] [sharedprocess] [info] Getting Manifest... formulahendry.code-runner
+[2022-06-10 14:41:17.085] [sharedprocess] [info] Installing extension: formulahendry.code-runner
+[2022-06-10 14:41:18.297] [sharedprocess] [info] Downloaded extension: formulahendry.code-runner /home/xandernp/.config/Code - OSS/CachedExtensionVSIXs/formulahendry.code-runner-0.11.7
+[2022-06-10 14:41:18.450] [sharedprocess] [info] Extracted extension to /home/xandernp/.vscode-oss/extensions/.115d5bac-43eb-4922-9b89-5a9c421b9961: formulahendry.code-runner
+[2022-06-10 14:41:18.464] [sharedprocess] [info] Renamed to /home/xandernp/.vscode-oss/extensions/formulahendry.code-runner-0.11.7
+[2022-06-10 14:41:18.465] [sharedprocess] [info] Extracting completed. formulahendry.code-runner
+[2022-06-10 14:41:18.466] [sharedprocess] [info] Extension installed successfully: formulahendry.code-runner

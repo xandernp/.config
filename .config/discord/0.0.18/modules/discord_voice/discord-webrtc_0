@@ -1,0 +1,473 @@
+es:mid, id: 10}, {uri: urn:ietf:params:rtp-hdrext:sdes:rtp-stream-id, id: 11}, {uri: urn:ietf:params:rtp-hdrext:sdes:repaired-rtp-stream-id, id: 12}], c_name: }, rtcp_report_interval_ms: 5000, send_transport: (Transport), min_bitrate_bps: -1, max_bitrate_bps: -1, has audio_network_adaptor_config: false, has_dscp: false, send_codec_spec: {nack_enabled: false, transport_cc_enabled: false, cng_payload_type: <unset>, red_payload_type: <unset>, payload_type: 120, format: {name: opus, clockrate_hz: 48000, num_channels: 1, parameters: {minplr: 30, stereo: 0, usedtx: 0, useinbandfec: 1}}}}
+[2022-06-10 21:27:08.385] [853] (audio_device_buffer.cc:411): [REC : 10010msec, 44kHz] callbacks: 1000, samples: 441000, rate: 44056, rate diff: 0%, level: 464
+[2022-06-10 21:27:08.385] [853] (audio_device_buffer.cc:437): [PLAY: 10010msec, 44kHz] callbacks: 1002, samples: 441882, rate: 44144, rate diff: 0%, level: 0
+[2022-06-10 21:27:08.872] [847] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-10 21:27:08.989] [847] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-10 21:27:08.989] [847] (device_info_linux.cc:78): GetDeviceName
+[2022-06-10 21:27:09.115] [846] (connection.cpp:642): Outbound stats for user: 307774350260436992
+[2022-06-10 21:27:09.116] [846] (connection.cpp:644):   Audio ssrc: 21007, packets sent: 22533, packets lost: 0
+[2022-06-10 21:27:09.116] [846] (connection.cpp:730): Transport stats for user: 307774350260436992, rtt: 115 [ms], available bitrate: 600000 [bps], outbound estimate: 600000 [bps], remb: 0 [bps], inbound estimate: 0
+[2022-06-10 21:27:09.116] [846] (connection.cpp:752): Memory usage: 620MB, CPU usage:31%
+[2022-06-10 21:27:10.831] [950] (udp_socket.cpp:875): Sending ping to 213.163.86.23:50001, seq: 578
+[2022-06-10 21:27:10.850] [950] (socket_client.cpp:263): Ping received from 213.163.86.23:50001, seq: 578, rtt: 18
+[2022-06-10 21:27:11.992] [847] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-10 21:27:12.106] [847] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-10 21:27:12.106] [847] (device_info_linux.cc:78): GetDeviceName
+[2022-06-10 21:27:12.992] [825] (discord.cpp:551): JS console: ["%c[RTCControlSocket]","Sending heartbeat"]
+[2022-06-10 21:27:13.013] [825] (discord.cpp:551): JS console: ["%c[RTCControlSocket]","Heartbeat ACK received"]
+[2022-06-10 21:27:15.108] [847] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-10 21:27:15.219] [847] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-10 21:27:15.219] [847] (device_info_linux.cc:78): GetDeviceName
+[2022-06-10 21:27:15.832] [950] (udp_socket.cpp:875): Sending ping to 213.163.86.23:50001, seq: 579
+[2022-06-10 21:27:15.846] [950] (socket_client.cpp:263): Ping received from 213.163.86.23:50001, seq: 579, rtt: 13
+[2022-06-10 21:27:16.912] [856] (captured_audio_processor.cpp:82): Audio frames processed: 289164, noise canceller process time: 0 [ms]
+[2022-06-10 21:27:16.912] [856] (captured_audio_processor.cpp:93): Audio frame: 289164, samples: 480, channels: 1, rate: 48000 [Hz], bytes: 2, level: 270
+[2022-06-10 21:27:18.222] [847] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-10 21:27:18.333] [847] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-10 21:27:18.333] [847] (device_info_linux.cc:78): GetDeviceName
+[2022-06-10 21:27:18.395] [853] (audio_device_buffer.cc:411): [REC : 10010msec, 44kHz] callbacks: 1002, samples: 441882, rate: 44144, rate diff: 0%, level: 851
+[2022-06-10 21:27:18.395] [853] (audio_device_buffer.cc:437): [PLAY: 10010msec, 44kHz] callbacks: 1001, samples: 441441, rate: 44100, rate diff: 0%, level: 0
+[2022-06-10 21:27:19.154] [846] (connection.cpp:642): Outbound stats for user: 307774350260436992
+[2022-06-10 21:27:19.155] [846] (connection.cpp:644):   Audio ssrc: 21007, packets sent: 22795, packets lost: 0
+[2022-06-10 21:27:19.155] [846] (connection.cpp:730): Transport stats for user: 307774350260436992, rtt: 17 [ms], available bitrate: 600000 [bps], outbound estimate: 600000 [bps], remb: 0 [bps], inbound estimate: 0
+[2022-06-10 21:27:19.155] [846] (connection.cpp:752): Memory usage: 618MB, CPU usage:39%
+[2022-06-10 21:27:20.831] [950] (udp_socket.cpp:875): Sending ping to 213.163.86.23:50001, seq: 580
+[2022-06-10 21:27:20.865] [950] (socket_client.cpp:263): Ping received from 213.163.86.23:50001, seq: 580, rtt: 33
+[2022-06-10 21:27:21.335] [847] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-10 21:27:21.446] [847] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-10 21:27:21.447] [847] (device_info_linux.cc:78): GetDeviceName
+[2022-06-10 21:27:24.448] [847] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-10 21:27:24.563] [847] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-10 21:27:24.563] [847] (device_info_linux.cc:78): GetDeviceName
+[2022-06-10 21:27:25.832] [950] (udp_socket.cpp:875): Sending ping to 213.163.86.23:50001, seq: 581
+[2022-06-10 21:27:25.848] [950] (socket_client.cpp:263): Ping received from 213.163.86.23:50001, seq: 581, rtt: 16
+[2022-06-10 21:27:26.742] [825] (discord.cpp:551): JS console: ["%c[RTCControlSocket]","Sending heartbeat"]
+[2022-06-10 21:27:26.762] [825] (discord.cpp:551): JS console: ["%c[RTCControlSocket]","Heartbeat ACK received"]
+[2022-06-10 21:27:26.929] [856] (captured_audio_processor.cpp:82): Audio frames processed: 290165, noise canceller process time: 0 [ms]
+[2022-06-10 21:27:26.929] [856] (captured_audio_processor.cpp:93): Audio frame: 290165, samples: 480, channels: 1, rate: 48000 [Hz], bytes: 2, level: 43
+[2022-06-10 21:27:27.566] [847] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-10 21:27:27.679] [847] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-10 21:27:27.680] [847] (device_info_linux.cc:78): GetDeviceName
+[2022-06-10 21:27:28.405] [853] (audio_device_buffer.cc:411): [REC : 10010msec, 44kHz] callbacks: 1001, samples: 441441, rate: 44100, rate diff: 0%, level: 936
+[2022-06-10 21:27:28.405] [853] (audio_device_buffer.cc:437): [PLAY: 10010msec, 44kHz] callbacks: 1001, samples: 441441, rate: 44100, rate diff: 0%, level: 0
+[2022-06-10 21:27:29.189] [846] (connection.cpp:642): Outbound stats for user: 307774350260436992
+[2022-06-10 21:27:29.189] [846] (connection.cpp:644):   Audio ssrc: 21007, packets sent: 23089, packets lost: 0
+[2022-06-10 21:27:29.189] [846] (connection.cpp:730): Transport stats for user: 307774350260436992, rtt: 78 [ms], available bitrate: 600000 [bps], outbound estimate: 600000 [bps], remb: 0 [bps], inbound estimate: 0
+[2022-06-10 21:27:29.189] [846] (connection.cpp:752): Memory usage: 617MB, CPU usage:37%
+[2022-06-10 21:27:30.682] [847] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-10 21:27:30.793] [847] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-10 21:27:30.794] [847] (device_info_linux.cc:78): GetDeviceName
+[2022-06-10 21:27:30.831] [950] (udp_socket.cpp:875): Sending ping to 213.163.86.23:50001, seq: 582
+[2022-06-10 21:27:30.848] [950] (socket_client.cpp:263): Ping received from 213.163.86.23:50001, seq: 582, rtt: 16
+[2022-06-10 21:27:33.795] [847] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-10 21:27:33.906] [847] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-10 21:27:33.907] [847] (device_info_linux.cc:78): GetDeviceName
+[2022-06-10 21:27:35.832] [950] (udp_socket.cpp:875): Sending ping to 213.163.86.23:50001, seq: 583
+[2022-06-10 21:27:35.848] [950] (socket_client.cpp:263): Ping received from 213.163.86.23:50001, seq: 583, rtt: 15
+[2022-06-10 21:27:36.910] [847] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-10 21:27:36.930] [856] (captured_audio_processor.cpp:82): Audio frames processed: 291166, noise canceller process time: 0 [ms]
+[2022-06-10 21:27:36.930] [856] (captured_audio_processor.cpp:93): Audio frame: 291166, samples: 480, channels: 1, rate: 48000 [Hz], bytes: 2, level: 148
+[2022-06-10 21:27:37.023] [847] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-10 21:27:37.023] [847] (device_info_linux.cc:78): GetDeviceName
+[2022-06-10 21:27:38.415] [853] (audio_device_buffer.cc:411): [REC : 10010msec, 44kHz] callbacks: 1001, samples: 441441, rate: 44100, rate diff: 0%, level: 651
+[2022-06-10 21:27:38.415] [853] (audio_device_buffer.cc:437): [PLAY: 10010msec, 44kHz] callbacks: 1001, samples: 441441, rate: 44100, rate diff: 0%, level: 0
+[2022-06-10 21:27:39.225] [846] (connection.cpp:642): Outbound stats for user: 307774350260436992
+[2022-06-10 21:27:39.225] [846] (connection.cpp:644):   Audio ssrc: 21007, packets sent: 23406, packets lost: 0
+[2022-06-10 21:27:39.225] [846] (connection.cpp:730): Transport stats for user: 307774350260436992, rtt: 18 [ms], available bitrate: 600000 [bps], outbound estimate: 600000 [bps], remb: 0 [bps], inbound estimate: 0
+[2022-06-10 21:27:39.225] [846] (connection.cpp:752): Memory usage: 614MB, CPU usage:35%
+[2022-06-10 21:27:40.025] [847] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-10 21:27:40.136] [847] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-10 21:27:40.137] [847] (device_info_linux.cc:78): GetDeviceName
+[2022-06-10 21:27:40.492] [825] (discord.cpp:551): JS console: ["%c[RTCControlSocket]","Sending heartbeat"]
+[2022-06-10 21:27:40.546] [825] (discord.cpp:551): JS console: ["%c[RTCControlSocket]","Heartbeat ACK received"]
+[2022-06-10 21:27:40.832] [950] (udp_socket.cpp:875): Sending ping to 213.163.86.23:50001, seq: 584
+[2022-06-10 21:27:40.867] [950] (socket_client.cpp:263): Ping received from 213.163.86.23:50001, seq: 584, rtt: 34
+[2022-06-10 21:27:43.139] [847] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-10 21:27:43.249] [847] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-10 21:27:43.250] [847] (device_info_linux.cc:78): GetDeviceName
+[2022-06-10 21:27:45.833] [950] (udp_socket.cpp:875): Sending ping to 213.163.86.23:50001, seq: 585
+[2022-06-10 21:27:45.848] [950] (socket_client.cpp:263): Ping received from 213.163.86.23:50001, seq: 585, rtt: 15
+[2022-06-10 21:27:46.252] [847] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-10 21:27:46.369] [847] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-10 21:27:46.370] [847] (device_info_linux.cc:78): GetDeviceName
+[2022-06-10 21:27:46.931] [856] (captured_audio_processor.cpp:82): Audio frames processed: 292166, noise canceller process time: 0 [ms]
+[2022-06-10 21:27:46.931] [856] (captured_audio_processor.cpp:93): Audio frame: 292166, samples: 480, channels: 1, rate: 48000 [Hz], bytes: 2, level: 1026
+[2022-06-10 21:27:48.425] [853] (audio_device_buffer.cc:411): [REC : 10010msec, 44kHz] callbacks: 1000, samples: 441000, rate: 44056, rate diff: 0%, level: 536
+[2022-06-10 21:27:48.425] [853] (audio_device_buffer.cc:437): [PLAY: 10010msec, 44kHz] callbacks: 1001, samples: 441441, rate: 44100, rate diff: 0%, level: 0
+[2022-06-10 21:27:49.257] [846] (connection.cpp:642): Outbound stats for user: 307774350260436992
+[2022-06-10 21:27:49.257] [846] (connection.cpp:644):   Audio ssrc: 21007, packets sent: 23767, packets lost: 0
+[2022-06-10 21:27:49.257] [846] (connection.cpp:730): Transport stats for user: 307774350260436992, rtt: 23 [ms], available bitrate: 600000 [bps], outbound estimate: 600000 [bps], remb: 0 [bps], inbound estimate: 0
+[2022-06-10 21:27:49.257] [846] (connection.cpp:752): Memory usage: 614MB, CPU usage:32%
+[2022-06-10 21:27:49.372] [847] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-10 21:27:49.483] [847] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-10 21:27:49.483] [847] (device_info_linux.cc:78): GetDeviceName
+[2022-06-10 21:27:50.833] [950] (udp_socket.cpp:875): Sending ping to 213.163.86.23:50001, seq: 586
+[2022-06-10 21:27:50.847] [950] (socket_client.cpp:263): Ping received from 213.163.86.23:50001, seq: 586, rtt: 13
+[2022-06-10 21:27:52.485] [847] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-10 21:27:52.599] [847] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-10 21:27:52.600] [847] (device_info_linux.cc:78): GetDeviceName
+[2022-06-10 21:27:54.242] [825] (discord.cpp:551): JS console: ["%c[RTCControlSocket]","Sending heartbeat"]
+[2022-06-10 21:27:54.312] [825] (discord.cpp:551): JS console: ["%c[RTCControlSocket]","Heartbeat ACK received"]
+[2022-06-10 21:27:55.602] [847] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-10 21:27:55.716] [847] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-10 21:27:55.717] [847] (device_info_linux.cc:78): GetDeviceName
+[2022-06-10 21:27:55.833] [950] (udp_socket.cpp:875): Sending ping to 213.163.86.23:50001, seq: 587
+[2022-06-10 21:27:55.854] [950] (socket_client.cpp:263): Ping received from 213.163.86.23:50001, seq: 587, rtt: 21
+[2022-06-10 21:27:56.940] [856] (captured_audio_processor.cpp:82): Audio frames processed: 293167, noise canceller process time: 0 [ms]
+[2022-06-10 21:27:56.940] [856] (captured_audio_processor.cpp:93): Audio frame: 293167, samples: 480, channels: 1, rate: 48000 [Hz], bytes: 2, level: 72
+[2022-06-10 21:27:58.435] [853] (audio_device_buffer.cc:411): [REC : 10010msec, 44kHz] callbacks: 1001, samples: 441441, rate: 44100, rate diff: 0%, level: 684
+[2022-06-10 21:27:58.435] [853] (audio_device_buffer.cc:437): [PLAY: 10010msec, 44kHz] callbacks: 1000, samples: 441000, rate: 44056, rate diff: 0%, level: 0
+[2022-06-10 21:27:58.720] [847] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-10 21:27:58.833] [847] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-10 21:27:58.833] [847] (device_info_linux.cc:78): GetDeviceName
+[2022-06-10 21:27:59.287] [846] (connection.cpp:642): Outbound stats for user: 307774350260436992
+[2022-06-10 21:27:59.287] [846] (connection.cpp:644):   Audio ssrc: 21007, packets sent: 23936, packets lost: 0
+[2022-06-10 21:27:59.287] [846] (connection.cpp:730): Transport stats for user: 307774350260436992, rtt: 86 [ms], available bitrate: 600000 [bps], outbound estimate: 600000 [bps], remb: 0 [bps], inbound estimate: 0
+[2022-06-10 21:27:59.287] [846] (connection.cpp:752): Memory usage: 614MB, CPU usage:26%
+[2022-06-10 21:28:00.833] [950] (udp_socket.cpp:875): Sending ping to 213.163.86.23:50001, seq: 588
+[2022-06-10 21:28:00.847] [950] (socket_client.cpp:263): Ping received from 213.163.86.23:50001, seq: 588, rtt: 14
+[2022-06-10 21:28:01.835] [847] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-10 21:28:01.946] [847] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-10 21:28:01.947] [847] (device_info_linux.cc:78): GetDeviceName
+[2022-06-10 21:28:04.948] [847] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-10 21:28:05.059] [847] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-10 21:28:05.060] [847] (device_info_linux.cc:78): GetDeviceName
+[2022-06-10 21:28:05.562] [950] (udp_socket.cpp:608): Reconnection started, sending echo
+[2022-06-10 21:28:05.579] [950] (udp_socket.cpp:195): ReconnectionAttemptFinished: succeeded, local address: 81.147.167.9:53963
+[2022-06-10 21:28:05.834] [950] (udp_socket.cpp:875): Sending ping to 213.163.86.23:50001, seq: 589
+[2022-06-10 21:28:05.852] [950] (socket_client.cpp:263): Ping received from 213.163.86.23:50001, seq: 589, rtt: 17
+[2022-06-10 21:28:06.942] [856] (captured_audio_processor.cpp:82): Audio frames processed: 294167, noise canceller process time: 0 [ms]
+[2022-06-10 21:28:06.942] [856] (captured_audio_processor.cpp:93): Audio frame: 294167, samples: 480, channels: 1, rate: 48000 [Hz], bytes: 2, level: 250
+[2022-06-10 21:28:07.992] [825] (discord.cpp:551): JS console: ["%c[RTCControlSocket]","Sending heartbeat"]
+[2022-06-10 21:28:08.010] [825] (discord.cpp:551): JS console: ["%c[RTCControlSocket]","Heartbeat ACK received"]
+[2022-06-10 21:28:08.063] [847] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-10 21:28:08.173] [847] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-10 21:28:08.173] [847] (device_info_linux.cc:78): GetDeviceName
+[2022-06-10 21:28:08.445] [853] (audio_device_buffer.cc:411): [REC : 10010msec, 44kHz] callbacks: 1002, samples: 441882, rate: 44144, rate diff: 0%, level: 367
+[2022-06-10 21:28:08.445] [853] (audio_device_buffer.cc:437): [PLAY: 10010msec, 44kHz] callbacks: 1002, samples: 441882, rate: 44144, rate diff: 0%, level: 0
+[2022-06-10 21:28:09.320] [846] (connection.cpp:642): Outbound stats for user: 307774350260436992
+[2022-06-10 21:28:09.321] [846] (connection.cpp:644):   Audio ssrc: 21007, packets sent: 23936, packets lost: 0
+[2022-06-10 21:28:09.321] [846] (connection.cpp:730): Transport stats for user: 307774350260436992, rtt: 49 [ms], available bitrate: 600000 [bps], outbound estimate: 600000 [bps], remb: 0 [bps], inbound estimate: 0
+[2022-06-10 21:28:09.321] [846] (connection.cpp:752): Memory usage: 614MB, CPU usage:27%
+[2022-06-10 21:28:09.924] [825] (discord.cpp:551): JS console: ["BaseConnection.userSpeakingChange: Reduced framerate after 15000 ms."]
+[2022-06-10 21:28:09.925] [825] (discord.cpp:551): JS console: ["updateVideoQuality: {\n    \"remoteSinkWantsMaxFramerate\": 20\n}"]
+[2022-06-10 21:28:09.925] [846] (audio_send_stream.cc:229): AudioSendStream::ConfigureStream: {rtp: {ssrc: 21007, extmap-allow-mixed: false, extensions: [{uri: urn:ietf:params:rtp-hdrext:ssrc-audio-level, id: 1}, {uri: https://discord.com/#rtp-hdrext/2018-07-29/speaker, id: 9}, {uri: urn:ietf:params:rtp-hdrext:sdes:mid, id: 10}, {uri: urn:ietf:params:rtp-hdrext:sdes:rtp-stream-id, id: 11}, {uri: urn:ietf:params:rtp-hdrext:sdes:repaired-rtp-stream-id, id: 12}], c_name: }, rtcp_report_interval_ms: 5000, send_transport: (Transport), min_bitrate_bps: -1, max_bitrate_bps: -1, has audio_network_adaptor_config: false, has_dscp: false, send_codec_spec: {nack_enabled: false, transport_cc_enabled: false, cng_payload_type: <unset>, red_payload_type: <unset>, payload_type: 120, format: {name: opus, clockrate_hz: 48000, num_channels: 1, parameters: {minplr: 30, stereo: 0, usedtx: 0, useinbandfec: 1}}}}
+[2022-06-10 21:28:09.925] [846] (audio_send_stream.cc:229): AudioSendStream::ConfigureStream: {rtp: {ssrc: 21007, extmap-allow-mixed: false, extensions: [{uri: urn:ietf:params:rtp-hdrext:ssrc-audio-level, id: 1}, {uri: https://discord.com/#rtp-hdrext/2018-07-29/speaker, id: 9}, {uri: urn:ietf:params:rtp-hdrext:sdes:mid, id: 10}, {uri: urn:ietf:params:rtp-hdrext:sdes:rtp-stream-id, id: 11}, {uri: urn:ietf:params:rtp-hdrext:sdes:repaired-rtp-stream-id, id: 12}], c_name: }, rtcp_report_interval_ms: 5000, send_transport: (Transport), min_bitrate_bps: -1, max_bitrate_bps: -1, has audio_network_adaptor_config: false, has_dscp: false, send_codec_spec: {nack_enabled: false, transport_cc_enabled: false, cng_payload_type: <unset>, red_payload_type: <unset>, payload_type: 120, format: {name: opus, clockrate_hz: 48000, num_channels: 1, parameters: {minplr: 30, stereo: 0, usedtx: 0, useinbandfec: 1}}}}
+[2022-06-10 21:28:10.835] [950] (udp_socket.cpp:875): Sending ping to 213.163.86.23:50001, seq: 590
+[2022-06-10 21:28:10.874] [950] (socket_client.cpp:263): Ping received from 213.163.86.23:50001, seq: 590, rtt: 39
+[2022-06-10 21:28:11.175] [847] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-10 21:28:11.289] [847] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-10 21:28:11.289] [847] (device_info_linux.cc:78): GetDeviceName
+[2022-06-10 21:28:11.524] [846] (rtcp_receiver.cc:311): OnPeriodicRttUpdate: Timeout: No increase in RTCP RR extended highest sequence number.
+[2022-06-10 21:28:14.292] [847] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-10 21:28:14.409] [847] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-10 21:28:14.410] [847] (device_info_linux.cc:78): GetDeviceName
+[2022-06-10 21:28:15.836] [950] (udp_socket.cpp:875): Sending ping to 213.163.86.23:50001, seq: 591
+[2022-06-10 21:28:15.855] [950] (socket_client.cpp:263): Ping received from 213.163.86.23:50001, seq: 591, rtt: 19
+[2022-06-10 21:28:16.952] [856] (captured_audio_processor.cpp:82): Audio frames processed: 295168, noise canceller process time: 0 [ms]
+[2022-06-10 21:28:16.952] [856] (captured_audio_processor.cpp:93): Audio frame: 295168, samples: 480, channels: 1, rate: 48000 [Hz], bytes: 2, level: 176
+[2022-06-10 21:28:17.412] [847] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-10 21:28:17.526] [847] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-10 21:28:17.526] [847] (device_info_linux.cc:78): GetDeviceName
+[2022-06-10 21:28:18.455] [853] (audio_device_buffer.cc:411): [REC : 10010msec, 44kHz] callbacks: 1001, samples: 441441, rate: 44100, rate diff: 0%, level: 316
+[2022-06-10 21:28:18.455] [853] (audio_device_buffer.cc:437): [PLAY: 10010msec, 44kHz] callbacks: 1001, samples: 441441, rate: 44100, rate diff: 0%, level: 0
+[2022-06-10 21:28:19.344] [846] (connection.cpp:642): Outbound stats for user: 307774350260436992
+[2022-06-10 21:28:19.344] [846] (connection.cpp:644):   Audio ssrc: 21007, packets sent: 23936, packets lost: 0
+[2022-06-10 21:28:19.344] [846] (connection.cpp:730): Transport stats for user: 307774350260436992, rtt: 25 [ms], available bitrate: 600000 [bps], outbound estimate: 600000 [bps], remb: 0 [bps], inbound estimate: 0
+[2022-06-10 21:28:19.344] [846] (connection.cpp:752): Memory usage: 614MB, CPU usage:-2147483648%
+[2022-06-10 21:28:20.528] [847] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-10 21:28:20.639] [847] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-10 21:28:20.640] [847] (device_info_linux.cc:78): GetDeviceName
+[2022-06-10 21:28:20.835] [950] (udp_socket.cpp:875): Sending ping to 213.163.86.23:50001, seq: 592
+[2022-06-10 21:28:20.850] [950] (socket_client.cpp:263): Ping received from 213.163.86.23:50001, seq: 592, rtt: 14
+[2022-06-10 21:28:21.742] [825] (discord.cpp:551): JS console: ["%c[RTCControlSocket]","Sending heartbeat"]
+[2022-06-10 21:28:21.759] [825] (discord.cpp:551): JS console: ["%c[RTCControlSocket]","Heartbeat ACK received"]
+[2022-06-10 21:28:23.642] [847] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-10 21:28:23.753] [847] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-10 21:28:23.753] [847] (device_info_linux.cc:78): GetDeviceName
+[2022-06-10 21:28:25.836] [950] (udp_socket.cpp:875): Sending ping to 213.163.86.23:50001, seq: 593
+[2022-06-10 21:28:25.853] [950] (socket_client.cpp:263): Ping received from 213.163.86.23:50001, seq: 593, rtt: 17
+[2022-06-10 21:28:26.755] [847] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-10 21:28:26.869] [847] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-10 21:28:26.869] [847] (device_info_linux.cc:78): GetDeviceName
+[2022-06-10 21:28:26.960] [856] (captured_audio_processor.cpp:82): Audio frames processed: 296169, noise canceller process time: 0 [ms]
+[2022-06-10 21:28:26.961] [856] (captured_audio_processor.cpp:93): Audio frame: 296169, samples: 480, channels: 1, rate: 48000 [Hz], bytes: 2, level: 29
+[2022-06-10 21:28:28.465] [853] (audio_device_buffer.cc:411): [REC : 10010msec, 44kHz] callbacks: 1001, samples: 441441, rate: 44100, rate diff: 0%, level: 482
+[2022-06-10 21:28:28.465] [853] (audio_device_buffer.cc:437): [PLAY: 10010msec, 44kHz] callbacks: 1001, samples: 441441, rate: 44100, rate diff: 0%, level: 0
+[2022-06-10 21:28:29.376] [846] (connection.cpp:642): Outbound stats for user: 307774350260436992
+[2022-06-10 21:28:29.376] [846] (connection.cpp:644):   Audio ssrc: 21007, packets sent: 23936, packets lost: 0
+[2022-06-10 21:28:29.376] [846] (connection.cpp:730): Transport stats for user: 307774350260436992, rtt: 114 [ms], available bitrate: 600000 [bps], outbound estimate: 600000 [bps], remb: 0 [bps], inbound estimate: 0
+[2022-06-10 21:28:29.376] [846] (connection.cpp:752): Memory usage: 625MB, CPU usage:36%
+[2022-06-10 21:28:29.872] [847] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-10 21:28:29.982] [847] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-10 21:28:29.982] [847] (device_info_linux.cc:78): GetDeviceName
+[2022-06-10 21:28:30.836] [950] (udp_socket.cpp:875): Sending ping to 213.163.86.23:50001, seq: 594
+[2022-06-10 21:28:30.850] [950] (socket_client.cpp:263): Ping received from 213.163.86.23:50001, seq: 594, rtt: 14
+[2022-06-10 21:28:32.985] [847] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-10 21:28:33.099] [847] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-10 21:28:33.100] [847] (device_info_linux.cc:78): GetDeviceName
+[2022-06-10 21:28:34.819] [825] (discord.cpp:551): JS console: ["%c[Routing/Utils]","transitionTo - Transitioning to /channels/761284676668227645/950812779927965776"]
+[2022-06-10 21:28:35.497] [825] (discord.cpp:551): JS console: ["%c[RTCControlSocket]","Sending heartbeat"]
+[2022-06-10 21:28:35.523] [825] (discord.cpp:551): JS console: ["%c[RTCControlSocket]","Heartbeat ACK received"]
+[2022-06-10 21:28:35.835] [950] (udp_socket.cpp:875): Sending ping to 213.163.86.23:50001, seq: 595
+[2022-06-10 21:28:35.855] [950] (socket_client.cpp:263): Ping received from 213.163.86.23:50001, seq: 595, rtt: 19
+[2022-06-10 21:28:36.102] [847] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-10 21:28:36.219] [847] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-10 21:28:36.220] [847] (device_info_linux.cc:78): GetDeviceName
+[2022-06-10 21:28:36.969] [856] (captured_audio_processor.cpp:82): Audio frames processed: 297170, noise canceller process time: 0 [ms]
+[2022-06-10 21:28:36.969] [856] (captured_audio_processor.cpp:93): Audio frame: 297170, samples: 480, channels: 1, rate: 48000 [Hz], bytes: 2, level: 213
+[2022-06-10 21:28:37.790] [825] (discord.cpp:551): JS console: ["updateVideoQuality: {\n    \"remoteSinkWantsMaxFramerate\": 30\n}"]
+[2022-06-10 21:28:37.791] [846] (audio_send_stream.cc:229): AudioSendStream::ConfigureStream: {rtp: {ssrc: 21007, extmap-allow-mixed: false, extensions: [{uri: urn:ietf:params:rtp-hdrext:ssrc-audio-level, id: 1}, {uri: https://discord.com/#rtp-hdrext/2018-07-29/speaker, id: 9}, {uri: urn:ietf:params:rtp-hdrext:sdes:mid, id: 10}, {uri: urn:ietf:params:rtp-hdrext:sdes:rtp-stream-id, id: 11}, {uri: urn:ietf:params:rtp-hdrext:sdes:repaired-rtp-stream-id, id: 12}], c_name: }, rtcp_report_interval_ms: 5000, send_transport: (Transport), min_bitrate_bps: -1, max_bitrate_bps: -1, has audio_network_adaptor_config: false, has_dscp: false, send_codec_spec: {nack_enabled: false, transport_cc_enabled: false, cng_payload_type: <unset>, red_payload_type: <unset>, payload_type: 120, format: {name: opus, clockrate_hz: 48000, num_channels: 1, parameters: {minplr: 30, stereo: 0, usedtx: 0, useinbandfec: 1}}}}
+[2022-06-10 21:28:37.791] [846] (audio_send_stream.cc:229): AudioSendStream::ConfigureStream: {rtp: {ssrc: 21007, extmap-allow-mixed: false, extensions: [{uri: urn:ietf:params:rtp-hdrext:ssrc-audio-level, id: 1}, {uri: https://discord.com/#rtp-hdrext/2018-07-29/speaker, id: 9}, {uri: urn:ietf:params:rtp-hdrext:sdes:mid, id: 10}, {uri: urn:ietf:params:rtp-hdrext:sdes:rtp-stream-id, id: 11}, {uri: urn:ietf:params:rtp-hdrext:sdes:repaired-rtp-stream-id, id: 12}], c_name: }, rtcp_report_interval_ms: 5000, send_transport: (Transport), min_bitrate_bps: -1, max_bitrate_bps: -1, has audio_network_adaptor_config: false, has_dscp: false, send_codec_spec: {nack_enabled: false, transport_cc_enabled: false, cng_payload_type: <unset>, red_payload_type: <unset>, payload_type: 120, format: {name: opus, clockrate_hz: 48000, num_channels: 1, parameters: {minplr: 30, stereo: 0, usedtx: 0, useinbandfec: 1}}}}
+[2022-06-10 21:28:38.475] [853] (audio_device_buffer.cc:411): [REC : 10009msec, 44kHz] callbacks: 1001, samples: 441441, rate: 44104, rate diff: 0%, level: 1371
+[2022-06-10 21:28:38.475] [853] (audio_device_buffer.cc:437): [PLAY: 10009msec, 44kHz] callbacks: 1001, samples: 441441, rate: 44104, rate diff: 0%, level: 0
+[2022-06-10 21:28:39.081] [825] (discord.cpp:551): JS console: ["%c[RTCConnection(761284676668227645)]","Destroy RTCConnection"]
+[2022-06-10 21:28:39.081] [825] (discord.cpp:551): JS console: ["%c[RTCControlSocket]","CLOSE"]
+[2022-06-10 21:28:39.082] [825] (discord.cpp:551): JS console: ["%c[RTCConnection(761284676668227645)]","Disconnected from RTC server, clean: true, code: 1000, reason: Force Close, state: RTC_CONNECTED"]
+[2022-06-10 21:28:39.084] [846] (audio_device_impl.cc:889): Recording
+[2022-06-10 21:28:39.084] [846] (audio_device_impl.cc:878): StopRecording
+[2022-06-10 21:28:39.084] [846] (audio_device_buffer.cc:153): StopRecording
+[2022-06-10 21:28:39.084] [846] (audio_device_buffer.cc:173): HISTOGRAM(WebRTC.Audio.RecordedOnlyZeros): 0
+[2022-06-10 21:28:39.084] [846] (audio_device_buffer.cc:176): total recording time: 2973570
+[2022-06-10 21:28:39.084] [846] (audio_device_impl.cc:882): output: 0
+[2022-06-10 21:28:39.084] [846] (audio_device_impl.cc:878): StopRecording
+[2022-06-10 21:28:39.084] [846] (audio_device_impl.cc:882): output: 0
+[2022-06-10 21:28:39.084] [846] (call.cc:1168): UpdateAggregateNetworkState: aggregate_state change to down
+[2022-06-10 21:28:39.084] [846] (audio_send_stream.cc:178): ~AudioSendStream: 21007
+[2022-06-10 21:28:39.084] [825] (discord.cpp:551): JS console: ["Connection state change: CONNECTED => DISCONNECTED"]
+[2022-06-10 21:28:39.084] [951] (pacing_controller.cc:160): PacedSender paused.
+[2022-06-10 21:28:39.084] [951] (control_handler.cc:78): Bitrate estimate state changed, BWE: 600 kbps.
+[2022-06-10 21:28:39.084] [825] (discord.cpp:551): JS console: ["%c[RTCConnection(761284676668227645)]","RTC media connection state change: RTC_CONNECTED => DISCONNECTED"]
+[2022-06-10 21:28:39.084] [825] (discord.cpp:551): JS console: ["%c[RTCConnection(761284676668227645)]","RTC connection state: RTC_CONNECTED => RTC_DISCONNECTED"]
+[2022-06-10 21:28:39.085] [825] (discord.cpp:551): JS console: ["Connection state change: DISCONNECTED => DISCONNECTED"]
+[2022-06-10 21:28:39.085] [846] (engine.cpp:338): Stopping audio output device
+[2022-06-10 21:28:39.085] [846] (audio_device_impl.cc:858): Playing
+[2022-06-10 21:28:39.085] [846] (audio_device_impl.cc:847): StopPlayout
+[2022-06-10 21:28:39.085] [825] (discord.cpp:551): JS console: ["%c[RTCConnection(761284676668227645)]","RTC media connection state change: RTC_DISCONNECTED => DISCONNECTED"]
+[2022-06-10 21:28:39.085] [846] (audio_device_buffer.cc:139): StopPlayout
+[2022-06-10 21:28:39.085] [846] (audio_device_buffer.cc:145): total playout time: 2973571
+[2022-06-10 21:28:39.085] [846] (audio_device_impl.cc:851): output: 0
+[2022-06-10 21:28:39.085] [846] (paced_sender.cc:186): ProcessThreadAttached 0x0
+[2022-06-10 21:28:39.085] [846] (paced_sender.cc:186): ProcessThreadAttached 0x0
+[2022-06-10 21:28:39.085] [950] (udp_socket.cpp:383): Disconnect
+[2022-06-10 21:28:39.085] [825] (discord.cpp:551): JS console: ["%c[RTCConnection(761284676668227645)]","RTC connection state: RTC_DISCONNECTED => RTC_DISCONNECTED"]
+[2022-06-10 21:28:39.086] [825] (discord.cpp:551): JS console: ["%c[RTCConnection(761284676668227645)]","RTC connection state: RTC_DISCONNECTED => DISCONNECTED"]
+[2022-06-10 21:28:39.222] [847] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-10 21:28:39.236] [847] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-10 21:28:39.236] [847] (device_info_linux.cc:78): GetDeviceName
+[2022-06-10 21:28:42.238] [847] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-10 21:28:42.353] [847] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-10 21:28:42.353] [847] (device_info_linux.cc:78): GetDeviceName
+[2022-06-10 21:28:45.355] [847] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-10 21:28:45.469] [847] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-10 21:28:45.469] [847] (device_info_linux.cc:78): GetDeviceName
+[2022-06-10 21:28:48.472] [847] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-10 21:28:48.589] [847] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-10 21:28:48.589] [847] (device_info_linux.cc:78): GetDeviceName
+[2022-06-10 21:28:51.592] [847] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-10 21:28:51.706] [847] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-10 21:28:51.706] [847] (device_info_linux.cc:78): GetDeviceName
+[2022-06-10 21:28:54.708] [847] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-10 21:28:54.819] [847] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-10 21:28:54.819] [847] (device_info_linux.cc:78): GetDeviceName
+[2022-06-10 21:28:57.822] [847] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-10 21:28:57.935] [847] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-10 21:28:57.936] [847] (device_info_linux.cc:78): GetDeviceName
+[2022-06-10 21:29:00.938] [847] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-10 21:29:01.056] [847] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-10 21:29:01.056] [847] (device_info_linux.cc:78): GetDeviceName
+[2022-06-10 21:29:04.058] [847] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-10 21:29:04.173] [847] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-10 21:29:04.174] [847] (device_info_linux.cc:78): GetDeviceName
+[2022-06-10 21:29:07.175] [847] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-10 21:29:07.289] [847] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-10 21:29:07.290] [847] (device_info_linux.cc:78): GetDeviceName
+[2022-06-10 21:29:10.292] [847] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-10 21:29:10.403] [847] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-10 21:29:10.403] [847] (device_info_linux.cc:78): GetDeviceName
+[2022-06-10 21:29:13.405] [847] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-10 21:29:13.516] [847] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-10 21:29:13.516] [847] (device_info_linux.cc:78): GetDeviceName
+[2022-06-10 21:29:16.518] [847] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-10 21:29:16.629] [847] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-10 21:29:16.630] [847] (device_info_linux.cc:78): GetDeviceName
+[2022-06-10 21:29:19.632] [847] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-10 21:29:19.743] [847] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-10 21:29:19.743] [847] (device_info_linux.cc:78): GetDeviceName
+[2022-06-10 21:29:22.745] [847] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-10 21:29:22.863] [847] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-10 21:29:22.863] [847] (device_info_linux.cc:78): GetDeviceName
+[2022-06-10 21:29:25.865] [847] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-10 21:29:25.976] [847] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-10 21:29:25.976] [847] (device_info_linux.cc:78): GetDeviceName
+[2022-06-10 21:29:28.978] [847] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-10 21:29:29.092] [847] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-10 21:29:29.093] [847] (device_info_linux.cc:78): GetDeviceName
+[2022-06-10 21:29:32.095] [847] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-10 21:29:32.209] [847] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-10 21:29:32.210] [847] (device_info_linux.cc:78): GetDeviceName
+[2022-06-10 21:29:35.212] [847] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-10 21:29:35.326] [847] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-10 21:29:35.326] [847] (device_info_linux.cc:78): GetDeviceName
+[2022-06-10 21:29:38.328] [847] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-10 21:29:38.439] [847] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-10 21:29:38.439] [847] (device_info_linux.cc:78): GetDeviceName
+[2022-06-10 21:29:41.442] [847] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-10 21:29:41.559] [847] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-10 21:29:41.560] [847] (device_info_linux.cc:78): GetDeviceName
+[2022-06-10 21:29:44.562] [847] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-10 21:29:44.672] [847] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-10 21:29:44.672] [847] (device_info_linux.cc:78): GetDeviceName
+[2022-06-10 21:29:47.675] [847] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-10 21:29:47.786] [847] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-10 21:29:47.787] [847] (device_info_linux.cc:78): GetDeviceName
+[2022-06-10 21:29:50.788] [847] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-10 21:29:50.903] [847] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-10 21:29:50.904] [847] (device_info_linux.cc:78): GetDeviceName
+[2022-06-10 21:29:53.905] [847] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-10 21:29:54.016] [847] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-10 21:29:54.017] [847] (device_info_linux.cc:78): GetDeviceName
+[2022-06-10 21:29:57.018] [847] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-10 21:29:57.129] [847] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-10 21:29:57.130] [847] (device_info_linux.cc:78): GetDeviceName
+[2022-06-10 21:30:00.132] [847] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-10 21:30:00.243] [847] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-10 21:30:00.243] [847] (device_info_linux.cc:78): GetDeviceName
+[2022-06-10 21:30:03.245] [847] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-10 21:30:03.359] [847] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-10 21:30:03.360] [847] (device_info_linux.cc:78): GetDeviceName
+[2022-06-10 21:30:06.362] [847] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-10 21:30:06.473] [847] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-10 21:30:06.473] [847] (device_info_linux.cc:78): GetDeviceName
+[2022-06-10 21:30:09.475] [847] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-10 21:30:09.589] [847] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-10 21:30:09.590] [847] (device_info_linux.cc:78): GetDeviceName
+[2022-06-10 21:30:12.594] [847] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-10 21:30:12.706] [847] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-10 21:30:12.707] [847] (device_info_linux.cc:78): GetDeviceName
+[2022-06-10 21:30:15.708] [847] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-10 21:30:15.819] [847] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-10 21:30:15.819] [847] (device_info_linux.cc:78): GetDeviceName
+[2022-06-10 21:30:18.822] [847] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-10 21:30:18.933] [847] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-10 21:30:18.934] [847] (device_info_linux.cc:78): GetDeviceName
+[2022-06-10 21:30:21.935] [847] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-10 21:30:22.046] [847] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-10 21:30:22.047] [847] (device_info_linux.cc:78): GetDeviceName
+[2022-06-10 21:30:25.048] [847] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-10 21:30:25.163] [847] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-10 21:30:25.163] [847] (device_info_linux.cc:78): GetDeviceName
+[2022-06-10 21:30:28.165] [847] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-10 21:30:28.276] [847] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-10 21:30:28.277] [847] (device_info_linux.cc:78): GetDeviceName
+[2022-06-10 21:30:31.278] [847] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-10 21:30:31.393] [847] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-10 21:30:31.393] [847] (device_info_linux.cc:78): GetDeviceName
+[2022-06-10 21:30:34.397] [847] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-10 21:30:34.506] [847] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-10 21:30:34.507] [847] (device_info_linux.cc:78): GetDeviceName
+[2022-06-10 21:30:37.508] [847] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-10 21:30:37.619] [847] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-10 21:30:37.620] [847] (device_info_linux.cc:78): GetDeviceName
+[2022-06-10 21:30:40.622] [847] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-10 21:30:40.733] [847] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-10 21:30:40.734] [847] (device_info_linux.cc:78): GetDeviceName
+[2022-06-10 21:30:43.735] [847] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-10 21:30:43.846] [847] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-10 21:30:43.846] [847] (device_info_linux.cc:78): GetDeviceName
+[2022-06-10 21:30:46.848] [847] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-10 21:30:46.962] [847] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-10 21:30:46.963] [847] (device_info_linux.cc:78): GetDeviceName
+[2022-06-10 21:30:49.966] [847] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-10 21:30:50.075] [847] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-10 21:30:50.076] [847] (device_info_linux.cc:78): GetDeviceName
+[2022-06-10 21:30:53.079] [847] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-10 21:30:53.189] [847] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-10 21:30:53.189] [847] (device_info_linux.cc:78): GetDeviceName
+[2022-06-10 21:30:56.192] [847] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-10 21:30:56.306] [847] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-10 21:30:56.307] [847] (device_info_linux.cc:78): GetDeviceName
+[2022-06-10 21:30:59.308] [847] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-10 21:30:59.419] [847] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-10 21:30:59.420] [847] (device_info_linux.cc:78): GetDeviceName
+[2022-06-10 21:31:02.422] [847] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-10 21:31:02.532] [847] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-10 21:31:02.533] [847] (device_info_linux.cc:78): GetDeviceName
+[2022-06-10 21:31:05.535] [847] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-10 21:31:05.646] [847] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-10 21:31:05.647] [847] (device_info_linux.cc:78): GetDeviceName
+[2022-06-10 21:31:08.648] [847] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-10 21:31:08.759] [847] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-10 21:31:08.760] [847] (device_info_linux.cc:78): GetDeviceName
+[2022-06-10 21:31:11.763] [847] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-10 21:31:11.873] [847] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-10 21:31:11.873] [847] (device_info_linux.cc:78): GetDeviceName
+[2022-06-10 21:31:14.875] [847] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-10 21:31:14.989] [847] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-10 21:31:14.990] [847] (device_info_linux.cc:78): GetDeviceName
+[2022-06-10 21:31:17.992] [847] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-10 21:31:18.105] [847] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-10 21:31:18.106] [847] (device_info_linux.cc:78): GetDeviceName
+[2022-06-10 21:31:21.108] [847] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-10 21:31:21.219] [847] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-10 21:31:21.220] [847] (device_info_linux.cc:78): GetDeviceName
+[2022-06-10 21:31:24.222] [847] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-10 21:31:24.332] [847] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-10 21:31:24.333] [847] (device_info_linux.cc:78): GetDeviceName
+[2022-06-10 21:31:27.335] [847] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-10 21:31:27.446] [847] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-10 21:31:27.447] [847] (device_info_linux.cc:78): GetDeviceName
+[2022-06-10 21:31:30.448] [847] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-10 21:31:30.566] [847] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-10 21:31:30.566] [847] (device_info_linux.cc:78): GetDeviceName
+[2022-06-10 21:31:33.568] [847] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-10 21:31:33.679] [847] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-10 21:31:33.680] [847] (device_info_linux.cc:78): GetDeviceName
+[2022-06-10 21:31:36.682] [847] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-10 21:31:36.793] [847] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-10 21:31:36.794] [847] (device_info_linux.cc:78): GetDeviceName
+[2022-06-10 21:31:39.795] [847] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-10 21:31:39.906] [847] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-10 21:31:39.907] [847] (device_info_linux.cc:78): GetDeviceName
+[2022-06-10 21:31:42.908] [847] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-10 21:31:43.019] [847] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-10 21:31:43.020] [847] (device_info_linux.cc:78): GetDeviceName
+[2022-06-10 21:31:46.022] [847] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-10 21:31:46.133] [847] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-10 21:31:46.134] [847] (device_info_linux.cc:78): GetDeviceName
+[2022-06-10 21:31:49.135] [847] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-10 21:31:49.246] [847] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-10 21:31:49.247] [847] (device_info_linux.cc:78): GetDeviceName
+[2022-06-10 21:31:52.248] [847] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-10 21:31:52.359] [847] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-10 21:31:52.360] [847] (device_info_linux.cc:78): GetDeviceName
+[2022-06-10 21:31:55.362] [847] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-10 21:31:55.473] [847] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-10 21:31:55.473] [847] (device_info_linux.cc:78): GetDeviceName
+[2022-06-10 21:31:58.477] [847] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-10 21:31:58.586] [847] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-10 21:31:58.587] [847] (device_info_linux.cc:78): GetDeviceName
+[2022-06-10 21:32:01.588] [847] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-10 21:32:01.699] [847] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-10 21:32:01.700] [847] (device_info_linux.cc:78): GetDeviceName
+[2022-06-10 21:32:04.703] [847] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-10 21:32:04.813] [847] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-10 21:32:04.813] [847] (device_info_linux.cc:78): GetDeviceName
+[2022-06-10 21:32:07.816] [847] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-10 21:32:07.929] [847] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-10 21:32:07.930] [847] (device_info_linux.cc:78): GetDeviceName
+[2022-06-10 21:32:10.932] [847] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-10 21:32:11.043] [847] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-10 21:32:11.043] [847] (device_info_linux.cc:78): GetDeviceName
+[2022-06-10 21:32:14.047] [847] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-10 21:32:14.159] [847] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-10 21:32:14.160] [847] (device_info_linux.cc:78): GetDeviceName
+[2022-06-10 21:32:17.162] [847] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-10 21:32:17.273] [847] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-10 21:32:17.274] [847] (device_info_linux.cc:78): GetDeviceName
+[2022-06-10 21:32:20.275] [847] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-10 21:32:20.389] [847] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-10 21:32:20.390] [847] (device_info_linux.cc:78): GetDeviceName
+[2022-06-10 21:32:23.393] [847] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-10 21:32:23.503] [847] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-10 21:32:23.504] [847] (device_info_linux.cc:78): GetDeviceName

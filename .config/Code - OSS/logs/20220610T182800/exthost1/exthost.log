@@ -1,0 +1,12 @@
+[2022-06-10 18:28:02.219] [exthost] [info] Extension host with pid 2232 started
+[2022-06-10 18:28:02.261] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-06-10 18:28:02.267] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+[2022-06-10 18:28:02.271] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-06-10 18:28:02.284] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-06-10 18:28:02.302] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-06-10 18:28:02.338] [exthost] [info] Eager extensions activated
+[2022-06-10 18:28:02.350] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-06-10 18:28:02.358] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-06-10 18:28:02.361] [exthost] [info] ExtensionService#_doActivateExtension formulahendry.code-runner, startup: false, activationEvent: 'onStartupFinished'
+[2022-06-10 18:28:06.037] [exthost] [info] Extension host terminating: renderer closed the socket
+[2022-06-10 18:28:06.042] [exthost] [info] Extension host with pid 2232 exiting with code 0

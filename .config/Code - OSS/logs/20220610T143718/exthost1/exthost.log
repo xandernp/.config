@@ -1,0 +1,27 @@
+[2022-06-10 14:37:20.993] [exthost] [info] Extension host with pid 10025 started
+[2022-06-10 14:37:21.053] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-06-10 14:37:21.059] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+[2022-06-10 14:37:21.063] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-06-10 14:37:21.092] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-06-10 14:37:21.177] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-06-10 14:37:21.232] [exthost] [info] Eager extensions activated
+[2022-06-10 14:37:21.268] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-06-10 14:37:21.290] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-06-10 14:37:46.060] [exthost] [info] Extension host terminating: renderer closed the socket
+[2022-06-10 14:37:46.063] [exthost] [info] Extension host with pid 10025 exiting with code 0
+[2022-06-10 14:37:47.765] [exthost] [info] Extension host with pid 10255 started
+[2022-06-10 14:37:47.765] [exthost] [info] Skipping acquiring lock for /home/xandernp/.config/Code - OSS/User/workspaceStorage/8d175b94c0264bfe8b9864de16cd3b2c.
+[2022-06-10 14:37:47.851] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-06-10 14:37:47.854] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*'
+[2022-06-10 14:37:47.856] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-06-10 14:37:47.866] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-06-10 14:37:47.873] [exthost] [info] Eager extensions activated
+[2022-06-10 14:37:47.875] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-06-10 14:37:47.879] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-06-10 14:38:04.025] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: 'api', root cause: vscode.github
+[2022-06-10 14:38:50.090] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-06-10 14:38:50.099] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-06-10 14:38:50.161] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-06-10 14:41:18.587] [exthost] [info] ExtensionService#_doActivateExtension formulahendry.code-runner, startup: false, activationEvent: 'onStartupFinished'
+[2022-06-10 14:45:23.645] [exthost] [info] Extension host terminating: renderer closed the socket
+[2022-06-10 14:45:23.652] [exthost] [info] Extension host with pid 10255 exiting with code 0

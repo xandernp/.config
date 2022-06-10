@@ -1,0 +1,4 @@
+[Running] cd "/home/xandernp/Coding/Learning/" && gcc main.c -o main && "/home/xandernp/Coding/Learning/"main
+Hello World
+[Done] exited with code=0 in 0.105 seconds
+

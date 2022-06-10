@@ -1,0 +1,8 @@
+[2022-06-10 18:29:34.461] [main] [info] window#load: attempt to load window (id: 1)
+[2022-06-10 18:29:34.472] [main] [info] update#ctor - updates are disabled as there is no update URL
+[2022-06-10 18:29:34.506] [main] [info] ExtensionHostStarterWorker created
+[2022-06-10 18:29:35.447] [main] [info] window#load: window reported ready (id: 1)
+[2022-06-10 18:29:35.744] [main] [info] Starting extension host with pid 3257 (fork() took 40 ms).
+[2022-06-10 18:29:35.744] [main] [info] ExtensionHostStarterWorker.start() took 41 ms.
+[2022-06-10 18:29:38.712] [main] [info] Waiting for extension host with pid 3257 to exit.
+[2022-06-10 18:29:38.718] [main] [info] Extension host with pid 3257 exited with code: 0, signal: null.

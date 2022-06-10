@@ -64,3 +64,13 @@
 2022-06-07T16:13:17.307Z - warn: [ui] requestAuthenticatedUser was not called with valid OAuth state. This is likely due to a browser reloading the callback URL. Contact GitHub Support if you believe this is an error
 2022-06-07T16:13:54.022Z - info: [ui] [AppStore.getAccountForRemoteURL] account found for remote: https://github.com/xandernp/.files.git - xandernp (has token)
 2022-06-07T16:13:54.571Z - info: [ui] [AppStore] adding repository at /home/xandernp/GitHub/.files to store
+2022-06-07T16:14:34.517Z - info: [ui] Executing updateIndex: git update-index --add --remove --replace -z --stdin (took 7.062s)
+2022-06-07T16:14:34.646Z - info: [ui] [Timing] Action 'create commit' for 'xandernp/.files' took 7.331s
+2022-06-07T16:15:07.080Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: .files - xandernp (has token)
+2022-06-07T16:15:42.811Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: .files - xandernp (has token)
+2022-06-07T16:15:42.814Z - info: [ui] [RepositoryIndicatorUpdater]: Refreshing sidebar indicators for 1 repositories took 1.3s of which 0.0s paused, total 1.3s
+2022-06-07T16:19:06.684Z - info: [ui] Executing push: git -c credential.helper= -c protocol.version=2 push origin main:main --progress (took 239.589s)
+2022-06-07T16:31:25.398Z - info: [ui] [RepositoryIndicatorUpdater]: Refreshing sidebar indicators for 1 repositories took 0.3s of which 0.0s paused, total 0.3s
+2022-06-07T16:31:26.950Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: .files - xandernp (has token)
+2022-06-07T16:31:28.905Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: .files - xandernp (has token)
+2022-06-07T16:31:31.182Z - info: [ui] Executing fetch: git -c credential.helper= -c protocol.version=2 fetch --progress --prune origin (took 2.241s)
