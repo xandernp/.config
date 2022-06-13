@@ -1,0 +1,11 @@
+2022-06-10T20:32:35.130Z - info: [ui] [AppStore] loading 1 repositories from store
+2022-06-10T20:32:35.134Z - info: [ui] [AppStore] found account: xandernp (Xander Newman-Peill)
+2022-06-10T20:32:35.249Z - info: [ui] launching: 3.0.0-linux2 (Linux 5.18.3-arch1-1)
+2022-06-10T20:32:35.289Z - info: [ui] execPath: '/opt/github-desktop/github-desktop'
+2022-06-10T20:32:35.486Z - info: [ui] Subscribed 'xandernp' to Alive channel
+2022-06-10T20:32:35.593Z - info: [ui] Stats reported.
+2022-06-10T20:32:37.593Z - info: [ui] Executing getChangedFilesNumStats: git log 0267d2c2d1c51cb783f62b406c418f969e5b8a38 -C -M -m -1 --no-show-signature --first-parent --format=format: -z --numstat -- (took 1.501s)
+2022-06-10T20:32:50.061Z - info: [ui] Executing updateIndex: git update-index --add --remove --replace -z --stdin (took 5.214s)
+2022-06-10T20:32:50.713Z - info: [ui] [Timing] Action 'create commit' for 'xandernp/.files' took 6.617s
+2022-06-10T20:32:51.300Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: .files - xandernp (has token)
+2022-06-10T20:35:56.365Z - info: [ui] Executing push: git -c credential.helper= -c protocol.version=2 push origin main:main --progress (took 185.017s)

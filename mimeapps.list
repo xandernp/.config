@@ -1,0 +1,26 @@
+[Default Applications]
+x-scheme-handler/mailto=userapp-Thunderbird-3FWZN1.desktop
+message/rfc822=userapp-Thunderbird-3FWZN1.desktop
+x-scheme-handler/mid=userapp-Thunderbird-3FWZN1.desktop
+x-scheme-handler/news=userapp-Thunderbird-CSI1N1.desktop
+x-scheme-handler/snews=userapp-Thunderbird-CSI1N1.desktop
+x-scheme-handler/nntp=userapp-Thunderbird-CSI1N1.desktop
+x-scheme-handler/feed=userapp-Thunderbird-3F00N1.desktop
+application/rss+xml=userapp-Thunderbird-3F00N1.desktop
+application/x-extension-rss=userapp-Thunderbird-3F00N1.desktop
+x-scheme-handler/webcal=userapp-Thunderbird-JSFRN1.desktop
+text/calendar=userapp-Thunderbird-JSFRN1.desktop
+application/x-extension-ics=userapp-Thunderbird-JSFRN1.desktop
+x-scheme-handler/webcals=userapp-Thunderbird-JSFRN1.desktop
+
+[Added Associations]
+x-scheme-handler/mailto=userapp-Thunderbird-3FWZN1.desktop;
+x-scheme-handler/mid=userapp-Thunderbird-3FWZN1.desktop;
+x-scheme-handler/news=userapp-Thunderbird-CSI1N1.desktop;
+x-scheme-handler/snews=userapp-Thunderbird-CSI1N1.desktop;
+x-scheme-handler/nntp=userapp-Thunderbird-CSI1N1.desktop;
+x-scheme-handler/feed=userapp-Thunderbird-3F00N1.desktop;
+application/rss+xml=userapp-Thunderbird-3F00N1.desktop;
+application/x-extension-rss=userapp-Thunderbird-3F00N1.desktop;
+x-scheme-handler/webcal=userapp-Thunderbird-JSFRN1.desktop;
+x-scheme-handler/webcals=userapp-Thunderbird-JSFRN1.desktop;
