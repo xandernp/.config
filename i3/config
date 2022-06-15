@@ -106,9 +106,10 @@ exec_always picom --backend glx
 for_window [class="Thunderbird"] move container to workspace 2
 exec_always --no-startup-id thunderbird
 
-bindsym $mod+t exec nemo
+bindsym $mod+t exec thunar
 bindsym $mod+f exec flameshot gui
 bindsym $mod+Shift+e exec thunderbird
+bindsym $mod+Shift+f exec firefox
 
 for_window [class="^.*"] border pixel 3
 gaps inner 10
