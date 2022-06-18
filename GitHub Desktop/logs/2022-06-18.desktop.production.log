@@ -86,3 +86,15 @@ Error: timed out
 2022-06-18T21:12:00.692Z - info: [ui] Executing getStatus: git --no-optional-locks status --untracked-files=all --branch --porcelain=2 -z (took 1.333s)
 2022-06-18T21:12:00.749Z - info: [ui] Executing getStatus: git --no-optional-locks status --untracked-files=all --branch --porcelain=2 -z (took 1.344s)
 2022-06-18T21:12:36.126Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: .config - xandernp (has token)
+2022-06-18T21:12:57.405Z - info: [ui] [AppStore] loading 1 repositories from store
+2022-06-18T21:12:57.409Z - info: [ui] [AppStore] found account: xandernp (Xander Newman-Peill)
+2022-06-18T21:12:57.443Z - info: [ui] [BranchPruner] Last prune took place 4 minutes ago - skipping
+2022-06-18T21:12:57.537Z - info: [ui] launching: 3.0.0-linux2 (Linux 5.18.5-arch1-1)
+2022-06-18T21:12:57.538Z - info: [ui] execPath: '/opt/github-desktop/github-desktop'
+2022-06-18T21:12:57.947Z - info: [ui] Subscribed 'xandernp' to Alive channel
+2022-06-18T21:12:58.766Z - info: [ui] Executing getStatus: git --no-optional-locks status --untracked-files=all --branch --porcelain=2 -z (took 1.348s)
+2022-06-18T21:12:58.889Z - info: [ui] Executing getStatus: git --no-optional-locks status --untracked-files=all --branch --porcelain=2 -z (took 1.332s)
+2022-06-18T21:13:04.509Z - info: [ui] Executing unstageAll: git reset -- . (took 1.293s)
+2022-06-18T21:13:04.795Z - info: [ui] [Timing] Action 'create commit' for 'xandernp/.config' took 1.619s
+2022-06-18T21:13:05.695Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: .config - xandernp (has token)
+2022-06-18T21:13:12.373Z - info: [ui] Executing push: git -c credential.helper= -c protocol.version=2 push origin main:main --progress (took 6.628s)

@@ -1,4 +1,4 @@
-set $mod Mod1
+set $mod Mod4
 font pango: Droid Sans Mono for Powerline
 exec --no-startup-id dex --autostart --environment i3
 exec --no-startup-id xss-lock --transfer-sleep-lock -- i3lock --nofork
@@ -102,7 +102,7 @@ exec_always --no-startup-id discord
 exec_always ~/.startup.sh
 exec_always ~/.config/polybar/launch.sh --no-startup-id
 exec_always feh --bg-scale ~/.wallpapers/5.jpg --no-startup-id
-exec_always picom --backend glx --unredir-if-possible
+exec_always picom --backend glx && --unredir-if-possible
 for_window [class="Thunderbird"] move container to workspace 2
 exec_always xfce4-power-manager
 
