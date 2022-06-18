@@ -101,8 +101,8 @@ for_window [class="discord"] move container to workspace 3
 exec_always --no-startup-id discord
 exec_always ~/.startup.sh
 exec_always ~/.config/polybar/launch.sh --no-startup-id
-exec_always feh --bg-scale ~/.wallpapers/jack-prommel-nK4VdS1izPw-unsplash.jpg --no-startup-id
-exec_always picom --backend glx
+exec_always feh --bg-scale ~/.wallpapers/5.jpg --no-startup-id
+exec_always picom --backend glx --unredir-if-possible
 for_window [class="Thunderbird"] move container to workspace 2
 exec_always xfce4-power-manager
 
