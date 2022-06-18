@@ -1,3 +1,10 @@
+to install: copy these commands into your terminal,
+```
+sudo rm -r ~/.config
+cd
+git clone https://github.com/xandernp/.config
+sudo rm -r ~/.config/.git
+```
 a list of packages that you may want to install to go along with this folder:
 
 feh
