@@ -1,4 +1,4 @@
-to install on arch and arch based distros: individually copy these commands into your terminal,
+to install on for the i3 window manager and on arch linux: individually copy these commands into your terminal,
 ```
 sudo pacman -Syu feh firefox flameshot imwheel kitty lxappearance materia-gtk-theme neofetch numlockx papirus-icon-theme pavucontrol picom polybar pulseaudio rofi thunar thunderbird xfce4-power-manager
 sudo rm -r ~/.config
