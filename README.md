@@ -1,4 +1,4 @@
-to install: copy these commands into your terminal,
+to install: individually copy these commands into your terminal,
 ```
 sudo rm -r ~/.config
 cd
