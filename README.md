@@ -4,5 +4,5 @@ sudo pacman -Syu feh firefox flameshot imwheel kitty lxappearance materia-gtk-th
 ```
 and then restart i3 with 
 ```
-super+shift+r
+alt+shift+r
 ```

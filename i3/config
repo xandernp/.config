@@ -9,7 +9,7 @@ bindsym XF86AudioLowerVolume exec --no-startup-id pactl set-sink-volume @DEFAULT
 bindsym XF86AudioMute exec --no-startup-id pactl set-sink-mute @DEFAULT_SINK@ toggle && $refresh_i3status
 bindsym XF86AudioMicMute exec --no-startup-id pactl set-source-mute @DEFAULT_SOURCE@ toggle && $refresh_i3status
 floating_modifier $mod
-bindsym $mod+Return exec kitty
+bindsym $mod+Return exec gnome-terminal
 bindsym $mod+q kill
 bindsym $mod+d exec --no-startup-id rofi -show run
 bindsym $mod+j focus left
@@ -101,10 +101,8 @@ for_window [class="discord"] move container to workspace 3
 exec_always --no-startup-id discord
 exec_always ~/.startup.sh
 exec_always ~/.config/polybar/launch.sh --no-startup-id
-exec_always feh --bg-scale ~/.wallpapers/5.jpg --no-startup-id
-exec_always picom --backend glx && --unredir-if-possible
+exec_always feh --bg-scale ~/.wallpapers/jack-prommel-nK4VdS1izPw-unsplash.jpg --no-startup-id
 for_window [class="Thunderbird"] move container to workspace 2
-exec_always xfce4-power-manager
 
 bindsym $mod+t exec thunar
 bindsym $mod+f exec flameshot gui
